@@ -55,7 +55,9 @@ SELECT MAX( joindate ) )
 Include in your output the name of the court, and the name of the member
 formatted as a single column. Ensure no duplicate data, and order by
 the member name. */
-SELECT concat (name, firstname, surname)
+SELECT sub.court, concat (sub.firstname,' ', sub.surname) AS name
+FROM( 
+SELECT Facilities.name AS court, Members.firstname AS firstname, Members.surname As surname
 FROM Bookings
 INNER JOIN Facilities ON Bookings.facid = Facilities.facid
 AND name LIKE  'Tennis Court%'
