@@ -6,4 +6,4 @@ The clients of my project are NCAA basketball fans, coaches, and teams.
 
 This information will be valuable for coaches of  basketball teams, who can take into account factors that influence their teams winning a game while playing at home. They can use these factors to tune tactics for their games, and thereby taking  advantage of these factors.
 
-![](Image/NCAA%20Mens%20Basketball.png)
+![](Folders/Capstone Project 1/Image/readme.png)
