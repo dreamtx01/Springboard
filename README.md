@@ -28,7 +28,7 @@ Spark,Dataframe,SQL & ML with Databriks
 MapReduce Using Spark
 
 # Data Science Challenges
-Relax CChallenge - Discovering Adopted Users
+Relax Challenge - Discovering Adopted Users
 Ultimate Challenge - Logistics & Rideshares
 
 
