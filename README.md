@@ -5,9 +5,9 @@ This repository contains both the two capstones, and the corresponding mini-proj
 
 # Table of Contents
 
-#Data Wrangling
+Data Wrangling
 
-JSON EXTraction and Manipulation
+JSON Extraction and Manipulation
 API Requests
 
 # Statistics: Experimental Design, Hypothesis Testing & Normality Testing
