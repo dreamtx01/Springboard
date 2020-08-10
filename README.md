@@ -18,6 +18,10 @@ Racial Discrimination EDA
 
 Hospital Readmission Analysis
 
+# SQL Database
+
+[SQL Querying](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/SQL/SQL.sql)
+
 # Supervised Learning
 [Linear Regression](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Linear%20Regression/Mini_Project_Linear_Regression.ipynb)
 
