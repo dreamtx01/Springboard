@@ -5,11 +5,11 @@ This repository contains both the two capstones, and the corresponding mini-proj
 
 # Table of Contents
 
-[Data Wrangling](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/API/api_data_wrangling_mini_project.ipynb)
+Data Wrangling
 
 [JSON Extraction and Manipulation](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/JSON_Project/sliderule_dsi_json_exercise.ipynb)
 
-API Requests
+[API Requests](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/API/api_data_wrangling_mini_project.ipynb)
 
 # Statistics: Experimental Design, Hypothesis Testing & Normality Testing
 Human Temperature EDA
