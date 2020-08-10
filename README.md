@@ -8,27 +8,34 @@ This repository contains both the two capstones, and the corresponding mini-proj
 Data Wrangling
 
 JSON Extraction and Manipulation
+
 API Requests
 
 # Statistics: Experimental Design, Hypothesis Testing & Normality Testing
 Human Temperature EDA
+
 Racial Discrimination EDA
+
 Hospital Readmission Analysis
 
 # Supervised Learning
 Linear Regression
+
 Logistic Regression
+
 Naive Bayes
 
 # Unsupervised Learning
 Clustering & PCA
 
 # Big Data Tools
-Spark,Dataframe,SQL & ML with Databriks
+Spark,Dataframe,SQL & ML with Databricks
+
 MapReduce Using Spark
 
 # Data Science Challenges
 Relax Challenge - Discovering Adopted Users
+
 Ultimate Challenge - Logistics & Rideshares
 
 
@@ -38,4 +45,4 @@ Capstone Projects
 
 
 
-![](readme.png)
+
