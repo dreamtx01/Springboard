@@ -21,7 +21,7 @@ Hospital Readmission Analysis
 # Supervised Learning
 [Linear Regression](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Linear%20Regression/Mini_Project_Linear_Regression.ipynb)
 
-Logistic Regression
+[Logistic Regression](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Logistic%20Regression/Logistic_Regression_Springboard_Rev1.ipynb)
 
 Naive Bayes
 
