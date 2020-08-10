@@ -7,7 +7,7 @@ This repository contains both the two capstones, and the corresponding mini-proj
 
 [Data Wrangling](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/API/api_data_wrangling_mini_project.ipynb)
 
-JSON Extraction and Manipulation
+[JSON Extraction and Manipulation](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/JSON_Project/sliderule_dsi_json_exercise.ipynb)
 
 API Requests
 
