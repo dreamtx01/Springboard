@@ -15,9 +15,9 @@ This simple exercise demonstrates ability to work with JSON files. The dataset c
 This exercise demonstrates ability to use requests package to retrieve data from Quandl using API keys. For 2017 Franfurt Stock Exchange data (ticker AFX_X), I am able to find out that the lowest opening price was $34.0, the highest opening price was $53.11, and that the median trading volume during 2017 was 76286.000, among other simple financial metrics.
 
 # Statistics: Experimental Design, Hypothesis Testing & Normality Testing
-Human Temperature EDA
+1. Human Temperature EDA
 
-Racial Discrimination EDA
+2. Racial Discrimination EDA
 
 3. Hospital Readmission Analysis with Frequentist Statistics
 
@@ -30,7 +30,7 @@ whether people with insurance are charged a different amount to those without Pe
 
 This section explores the same two questions above but analyzes it using bootstrapping methods. For the first question: When we generate 10,000 bootstrap replicates, we obtain $12724.46 (exact value might vary due to bootstrapping) for the lower limit of the 95% confidence interval, validating our frequentist approach above. For the second question, we conclude that there is no practical need to perform bootstrapping since the obtained t-value is already so low (t-value of -13.29). We do however perform bootstrapping methods to verify that the variances of the two groups (insured vs. non-insured) were unequal, validating our choice of using Welch's t-test in the previous section.
 
-5.Analyzing Hospital Medical Charges with Bayesian Methods (PyMC3)
+5.[Analyzing Hospital Medical Charges with Bayesian Methods (PyMC3)](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Statistics/inferential_statistics_3.ipynb)
 
 This section is mostly focused on using and familiarizing oneself with the PyMC3 library. As an exercise, this section models 'no-insurance' group's individual medical charges using Bayesian inferential modeling.
 
