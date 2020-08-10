@@ -26,7 +26,7 @@ Using classical frequentist methods such as the z-statistic and t-statistic and 
 whether the hospital's revenue stream fell below a key threshold of $12,000
 whether people with insurance are charged a different amount to those without Performing statistics on the first question reveals that the lower limit of the 95% confidence interval for the population mean is $12,725.48. Thus it is highly unlikely that the hospital's revenue stream fell below the threshold of $12,000. For the second question, using Welch's t-test gives us a t-value of -13.29. Thus we reject the null hypothesis and conclude that there is a difference in the amount charged between the two groups
 
-4. Analyzing Hospital Medical Charges with Bootstrapping
+4. [Analyzing Hospital Medical Charges with Bootstrapping](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Statistics/inferential_statistics_2.ipynb)
 
 This section explores the same two questions above but analyzes it using bootstrapping methods. For the first question: When we generate 10,000 bootstrap replicates, we obtain $12724.46 (exact value might vary due to bootstrapping) for the lower limit of the 95% confidence interval, validating our frequentist approach above. For the second question, we conclude that there is no practical need to perform bootstrapping since the obtained t-value is already so low (t-value of -13.29). We do however perform bootstrapping methods to verify that the variances of the two groups (insured vs. non-insured) were unequal, validating our choice of using Welch's t-test in the previous section.
 
