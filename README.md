@@ -31,7 +31,7 @@ whether people with insurance are charged a different amount to those without Pe
 
 This section explores the same two questions above but analyzes it using bootstrapping methods. For the first question: When we generate 10,000 bootstrap replicates, we obtain $12724.46 (exact value might vary due to bootstrapping) for the lower limit of the 95% confidence interval, validating our frequentist approach above. For the second question, we conclude that there is no practical need to perform bootstrapping since the obtained t-value is already so low (t-value of -13.29). We do however perform bootstrapping methods to verify that the variances of the two groups (insured vs. non-insured) were unequal, validating our choice of using Welch's t-test in the previous section.
 
-4.[Analyzing Hospital Medical Charges with Bayesian Methods (PyMC3)](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Statistics/inferential_statistics_3.ipynb)
+4. [Analyzing Hospital Medical Charges with Bayesian Methods (PyMC3)](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Statistics/inferential_statistics_3.ipynb)
 
 This section is mostly focused on using and familiarizing oneself with the PyMC3 library. As an exercise, this section models 'no-insurance' group's individual medical charges using Bayesian inferential modeling.
 
