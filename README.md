@@ -19,7 +19,7 @@ This exercise demonstrates ability to use requests package to retrieve data from
 
 2. Racial Discrimination EDA
 
-3. Hospital Readmission Analysis with Frequentist Statistics
+3. [Hospital Readmission Analysis with Frequentist Statistics](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Statistics/inferential_statistics_1b.ipynb)
 
 Using classical frequentist methods such as the z-statistic and t-statistic and the scipy statistics package, this section investigates two questions:
 
