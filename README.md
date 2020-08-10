@@ -5,7 +5,7 @@ This repository contains both the two capstones, and the corresponding mini-proj
 
 # Table of Contents
 
-Data Wrangling
+Data Wrangling <https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/API/api_data_wrangling_mini_project.ipynb>
 
 JSON Extraction and Manipulation
 
