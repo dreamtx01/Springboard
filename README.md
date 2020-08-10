@@ -3,7 +3,7 @@
 This repository contains both the two capstones, and the corresponding mini-projects from Springboard. This repository will contain, codes for SQL Databases, Supervised Learning, Unsupervised Learning and Big Data Tools.
 
 
-# Table of Contents
+## Table of Contents
 
 Data Wrangling
 
@@ -19,7 +19,7 @@ Racial Discrimination EDA
 Hospital Readmission Analysis
 
 # Supervised Learning
-Linear Regression
+[Linear Regression](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Linear%20Regression/Mini_Project_Linear_Regression.ipynb)
 
 Logistic Regression
 
