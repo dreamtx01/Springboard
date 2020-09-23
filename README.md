@@ -53,13 +53,7 @@ This exercise delves into unsupervised machine learning, specifically K-Means Cl
 # Big Data Tools
 Spark,Dataframe,SQL & ML with Databricks
 
-MapReduce Using Spark
-
 # Data Science Challenges
-Relax Challenge - Discovering Adopted Users
-
-Ultimate Challenge - Logistics & Rideshares
-
 
 Capstone Projects
 
