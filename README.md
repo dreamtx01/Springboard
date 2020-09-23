@@ -56,7 +56,8 @@ Spark,Dataframe,SQL & ML with Databricks
 # Data Science Challenges
 
 Capstone Projects
- 1. [NCAA Men's Basketball] (https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201)
+ 1. NCAA Men's Basketball (https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201)
+ 2. Identifying Bone X-rays (https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%202)
 
 
 
