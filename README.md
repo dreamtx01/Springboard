@@ -43,7 +43,7 @@ This section is mostly focused on using and familiarizing oneself with the PyMC3
 
 [Logistic Regression](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Logistic%20Regression/Logistic_Regression_Springboard_Rev1.ipynb)
 
-Naive Bayes
+[Naive Bayes](https://github.com/dreamtx01/Springboard/tree/master/Folders/Mini-Projects/Naive%20Bayes)
 
 # Unsupervised Learning
 1. [Clustering & PCA](https://github.com/dreamtx01/Springboard/blob/master/Folders/Mini-Projects/Clustering/Mini_Project_Clustering.ipynb)
@@ -56,8 +56,8 @@ Spark,Dataframe,SQL & ML with Databricks
 # Data Science Challenges
 
 Capstone Projects
- 1. NCAA Men's Basketball (https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201)
- 2. Identifying Bone X-rays (https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%202)
+ 1. [NCAA Men's Basketball](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201)
+ 2. [Identifying Bone X-rays](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%202)
 
 
 
