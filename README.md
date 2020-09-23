@@ -51,7 +51,7 @@ This section is mostly focused on using and familiarizing oneself with the PyMC3
 This exercise delves into unsupervised machine learning, specifically K-Means Clustering techniques. The purpose of this exercise is to segment the customers with similar behavior in order to target them for specific promotions in the future. To choose K, the number of clusters, I use both the elbow method and the silhouette method and compare metrics against each approach. For visualizations, we turn to PCA techniques, since this dataset has 32 feature columns. We reduce the dimensionality into 2 dimensions and try to get a feel for how the different clusters are formed for different K-values. Additionally other clustering algorithms such as affinity propagation, spectral clustering, agglomerative clustering, and DBSCAN are used on the dataset and their respective Silhouette Scores are compared.
 
 # Big Data Tools
-Spark,Dataframe,SQL & ML with Databricks
+[Spark,Dataframe,SQL & ML with Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5719227336300490/4004339898554716/6143591961731566/latest.html)
 
 # Data Science Challenges
 
