@@ -53,7 +53,6 @@ This exercise delves into unsupervised machine learning, specifically K-Means Cl
 # Big Data Tools
 [Spark,Dataframe,SQL & ML with Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5719227336300490/4004339898554716/6143591961731566/latest.html)
 
-These projects showcase skill an understanding of core data science disciplines. Capstone projects can be found at:
 # Capstone Projects
  1. [NCAA Men's Basketball](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%201)
  2. [Identifying Bone X-rays](https://github.com/dreamtx01/Springboard/tree/master/Folders/Capstone%20Project%202)
